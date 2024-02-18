@@ -36,14 +36,3 @@ targets:
   test:
     workspace:
       host: https://adb-984752964297111.11.azuredatabricks.net
-  staging:
-    workspace:
-      host: https://adb-984752964297111.11.azuredatabricks.net
-
-  prod:
-    workspace:
-      host: https://adb-984752964297111.11.azuredatabricks.net
-
-  test:
-    workspace:
-      host: https://adb-984752964297111.11.azuredatabricks.net
